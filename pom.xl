@@ -1,0 +1,3 @@
+user(self,id,password):
+  id = input('enter u r id')
+  passwoed = inpput("enter u r password")
